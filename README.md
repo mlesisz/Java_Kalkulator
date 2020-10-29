@@ -1,3 +1,2 @@
 # Projekt_Java
-Projekt zaliczeniowy na Jave.
-Kalkulator nie dokończony.
+Projekt zaliczeniowy na Jave(niedokończony kalkulator).
